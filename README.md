@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fatma Kibar .I'm 21 years old and living İstanbul.
+- 👋 Hi, I’m Fatma Kibar .I'm 22 years old and living İstanbul.
 - 👀 I’m interested in software.
 - 🌱 I’m currently learning computer engineering in 3th grade.
 -  🙌I' m setting up projects.You should research my projects.
