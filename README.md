@@ -82,22 +82,12 @@ Bilgisayar Mühendisliği mezunuyum ve full-stack geliştirme alanında pratik d
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fatma258&show_icons=true&theme=default&hide_border=true&title_color=2B5AA7&icon_color=5C7FA3&text_color=333333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatma258&layout=compact&hide_border=true&title_color=2B5AA7&text_color=333333&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-sepia-eight.vercel.app/api?username=fatma258&show_icons=true&theme=default&hide_border=true&title_color=2B5AA7&icon_color=5C7FA3&text_color=333333" />
+  <img height="165" src="https://github-readme-stats-sepia-eight.vercel.app/api/top-langs/?username=fatma258&layout=compact&hide_border=true&title_color=2B5AA7&text_color=333333&langs_count=8" />
 </div>
 
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=fatma258&hide_border=true&background=FFFFFF00&ring=2B5AA7&fire=E6A417&currStreakLabel=2B5AA7&sideLabels=5C7FA3&currStreakNum=16233D&sideNums=16233D&dates=5C7FA3" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatma258&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8&title_color=2B5AA7&icon_color=5C7FA3&text_color=333333" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatma258&theme=minimal&hide_border=true&color=2B5AA7&line=2B5AA7&point=E6A417&area=true&area_color=5C7FA3" width="100%" />
 </div>
 
 <br>
