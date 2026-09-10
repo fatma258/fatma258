@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16233D,100:2B5AA7&height=180&section=header&text=Fatma%20Kibar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20M%C3%BChendisi%20%7C%20Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18" width="100%" />
+# 👋 Merhaba, ben Fatma Kibar
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=22&duration=3000&pause=1000&color=2B5AA7&center=true&vCenter=true&width=650&lines=.NET+%7C+Python+%7C+React+%7C+Angular;JazzCash+%C3%96deme+Sistemleri+Entegrasyonu;S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+m%C3%BChendisim+%F0%9F%9A%80" alt="Typing SVG" />
 
