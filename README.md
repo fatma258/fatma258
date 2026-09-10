@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=3000&pause=1000&color=2B5AA7&center=true&vCenter=true&width=650&lines=Merhaba%2C+ben+Fatma+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisi;Full-Stack+%26+Backend+Geli%C5%9Ftirici;.NET+%7C+Python+%7C+React+%7C+Angular" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16233D,100:2B5AA7&height=180&section=header&text=Fatma%20Kibar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20M%C3%BChendisi%20%7C%20Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=22&duration=3000&pause=1000&color=2B5AA7&center=true&vCenter=true&width=650&lines=.NET+%7C+Python+%7C+React+%7C+Angular;JazzCash+%C3%96deme+Sistemleri+Entegrasyonu;S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+m%C3%BChendisim+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +20,8 @@
 
 Bilgisayar Mühendisliği mezunuyum ve full-stack geliştirme alanında pratik deneyime sahibim. Çeşitli stajlarımda .NET, Python, Angular ve React ile uçtan uca projelerde sorumluluk aldım; ödeme sistemleri entegrasyonu, gerçek zamanlı veri takibi ve backend servis geliştirme gibi farklı alanlarda çalıştım.
 
-- 🔭 Şu anda **JazzCash ödeme ağ geçidi entegrasyonu** ve **full-stack e-ticaret** projeleri üzerinde çalışıyorum
+- 🎓 **Yeni mezun** bir Bilgisayar Mühendisiyim
+- 💼 Full-stack / backend geliştirici pozisyonlarında **iş fırsatları arıyorum**
 - 🌱 Katmanlı mimari, OOP prensipleri ve sürdürülebilir kod yazımına önem veririm
 - 📍 Eyüp / İstanbul
 
@@ -81,6 +84,20 @@ Bilgisayar Mühendisliği mezunuyum ve full-stack geliştirme alanında pratik d
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fatma258&show_icons=true&theme=default&hide_border=true&title_color=2B5AA7&icon_color=5C7FA3&text_color=333333" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatma258&layout=compact&hide_border=true&title_color=2B5AA7&text_color=333333&langs_count=8" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=fatma258&hide_border=true&background=FFFFFF00&ring=2B5AA7&fire=E6A417&currStreakLabel=2B5AA7&sideLabels=5C7FA3&currStreakNum=16233D&sideNums=16233D&dates=5C7FA3" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatma258&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8&title_color=2B5AA7&icon_color=5C7FA3&text_color=333333" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatma258&theme=minimal&hide_border=true&color=2B5AA7&line=2B5AA7&point=E6A417&area=true&area_color=5C7FA3" width="100%" />
 </div>
 
 <br>
